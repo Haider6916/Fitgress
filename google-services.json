@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "566332789304",
+    "project_id": "fitgress-updated",
+    "storage_bucket": "fitgress-updated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566332789304:android:b1c6cb8e5aa3b81ce54ccd",
+        "android_client_info": {
+          "package_name": "com.fitgress.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566332789304-t9a98911sp3el2kdpepmi3kgmdg99ena.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitgress.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "566332789304-t84bb2sck5d02he0n84pgqun8coum5k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jfE9n0DJnt5bXIvoxVT6wdCxhDVJ450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566332789304-t84bb2sck5d02he0n84pgqun8coum5k3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566332789304-2qn4uikn5oivbgdso5g8oas53mqmhtur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitgress.fitgressStrength"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
